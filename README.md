@@ -1,1 +1,3 @@
-# Arguments-based Add
+# Arguments-based Adder
+
+03월 17일에 안내된, 프로그램 외부에서 인자로 두 정수를 입력받아 그 합을 출력하는 간단한 프로그램입니다.
